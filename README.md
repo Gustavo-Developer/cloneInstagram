@@ -1,18 +1,16 @@
 ## pageNetflixClone
-Fala Dev's, 
-Como vão ?
-Dessa vez, realizei o clone da Página inicial da Netflix.
-
+Olá Desenvolvedores amigos,
+Venho mais uma vez apresentar, dessa vez o clone da Landing page do <strong>instagram</strong>.
 
 
 ## Tecnologias/Bibliotecas usadas no Projeto:
 
--CSS3
 -HTML5
+-CSS3
 -SASS
--Plugin Jquery 
--Biblioteca Own Carrossel (Responsável pelo efeito de rolagem dos filmes)
+(O live server ajuda bastante também na hora do desenvolvimento :D )
 
-<img src="img/final.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Final">
 
+
+<img src="img/final.jpg" min-width="400px" max-width="auto" width="auto" align="right" alt="Final">
 
